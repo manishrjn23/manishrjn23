@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a fairly competent singer.
 
+![Manish Rajani's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishrjn23)
