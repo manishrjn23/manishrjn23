@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on WhatsApp traceability as part of the Facebook CIPHER Lab.
-- 🌱 I’m currently learning React JS.
-- 👯 I’m looking to collaborate on full stack projects.
-- 🤔 I’m looking for help with learning flutter.
+- 🔭 I’m currently unemployed <3
+- 🌱 I’m currently learning Product Management.
+- 👯 I’m looking to collaborate on interesting ideas.
+- 🤔 I’m looking for help with learning app dev
 - 📫 How to reach me: manish.rajani_ug22@ashoka.edu.in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a fairly competent singer.
